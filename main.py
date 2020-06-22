@@ -13,4 +13,4 @@ array = [34,21,[0,
     17
     ],76]        
         
-sub_list(array)    
+print_list_elements(array)    
