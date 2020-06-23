@@ -1,2 +1,2 @@
 # Backtracking-list
-Print elements N dimensional list
+Print all the elements in N dimensional list
