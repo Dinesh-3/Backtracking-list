@@ -1,6 +1,6 @@
 def print_list_elements(array):
     for element in array:
-        if type(element) is list:
+        if type(element) == list:
             print_list_elements(element)
         else:
             print(element)
