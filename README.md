@@ -1,2 +1,2 @@
 # Backtracking-list
-Print all the elements in N dimensional list
+In this program we convert multi dimensional list into a single list using recursion.
