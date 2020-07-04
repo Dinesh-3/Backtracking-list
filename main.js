@@ -18,6 +18,8 @@ function convert_list_dimension(sample_list){
 convert_list_dimension(sample_list)
 
 console.log(one_d_list)
+
+
 // JavaScript ES6
 // const one_d_list = []
 // let sample_list,convert_list_dimension
